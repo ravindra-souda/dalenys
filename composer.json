@@ -1,0 +1,13 @@
+{
+    "name": "souda/snail",
+    "authors": [
+        {
+            "name": "RAVINDRA Soudakar",
+            "email": "ravindra@pro.cabestan.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "classmap": ["src"]
+    }
+}
