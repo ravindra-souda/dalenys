@@ -53,6 +53,14 @@ class Snail
     }
 
     /**
+     * @return array
+     */
+    public function getBox(): array
+    {
+        return $this->box;
+    }
+
+    /**
      * @param int $dir
      * @return bool
      */
